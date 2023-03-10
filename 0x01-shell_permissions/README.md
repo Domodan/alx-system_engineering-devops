@@ -28,3 +28,6 @@
 `8-James_Bond`
 > The script sets no permission to user and group, and grant all permissions to everybody, to the file hello.
 ---
+`9-John_Doe`
+> The script sets the mode of the file hello to 753
+---
