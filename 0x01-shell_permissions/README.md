@@ -31,3 +31,6 @@
 `9-John_Doe`
 > The script sets the mode of the file hello to 753
 ---
+`10-mirror_permissions`
+> The script sets the mode of the file hello the same as olleh’s mode
+---
