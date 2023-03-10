@@ -13,3 +13,6 @@
 `3-new_owner`
 > The script changes the owner of the file hello to the user betty.
 ---
+`4-empty`
+> The script creates an empty file called hello.
+---
