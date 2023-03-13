@@ -40,8 +40,8 @@
 `12-newest_files`
 > The script displays the 10 newest files in the current directory.
 ---
-`13-change_group`
-> The script changes the group owner to school for the file hello.
+`13-unique`
+> The script takes a list of words as input and prints only words that appear exactly once.
 ---
 `100-change_owner_and_group`
 > The script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
