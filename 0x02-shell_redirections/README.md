@@ -10,8 +10,8 @@
 `2-hellofile`
 > The script display the content of the /etc/passwd file.
 ---
-`3-new_owner`
-> The script changes the owner of the file hello to the user betty.
+`3-twofiles`
+> The script display the content of /etc/passwd and /etc/hosts.
 ---
 `4-empty`
 > The script creates an empty file called hello.
