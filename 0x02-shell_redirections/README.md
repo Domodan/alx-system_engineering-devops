@@ -7,8 +7,8 @@
 `1-confused_smileyi`
 > The script displays a confused smiley "(Ôo)'.
 ---
-`2-groups`
-> The script prints all the groups the current user is part of.
+`2-hellofile`
+> The script display the content of the /etc/passwd file.
 ---
 `3-new_owner`
 > The script changes the owner of the file hello to the user betty.
