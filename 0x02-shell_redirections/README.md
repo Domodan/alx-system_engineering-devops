@@ -49,8 +49,8 @@
 `15-countthatword`
 > The script display the number of lines that contain the pattern “bin” in the file `/etc/passwd`.
 ---
-`102-if_only`
-> The script changes the owner of the file hello to betty only if it is owned by the user guillaume.
+`16-whatsnext`
+> The script display lines containing the pattern “root” and 3 lines after them in the file `/etc/passwd`.
 ---
 `103-Star_Wars`
 > The script will play the StarWars IV episode in the terminal.
