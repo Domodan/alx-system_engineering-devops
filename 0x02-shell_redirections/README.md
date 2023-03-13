@@ -19,8 +19,8 @@
 `5-firstlines`
 > The script display the first 10 lines of /etc/passwd.
 ---
-`6-multiple_permissions`
-> The script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+`6-third_line`
+> The script displays the third line of the file iacta.
 ---
 `7-everybody`
 > The script adds execution permission to the owner, the group owner and the other users, to the file hello.
