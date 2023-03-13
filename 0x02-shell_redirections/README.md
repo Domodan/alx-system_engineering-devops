@@ -43,8 +43,8 @@
 `13-unique`
 > The script takes a list of words as input and prints only words that appear exactly once.
 ---
-`100-change_owner_and_group`
-> The script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+`14-findthatword`
+> The script display lines containing the pattern “root” from the file `/etc/passwd`
 ---
 `101-symbolic_link_permissions`
 > The script changes the owner and the group owner of _hello to vincent and staff respectively.
