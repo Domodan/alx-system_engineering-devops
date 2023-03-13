@@ -31,8 +31,8 @@
 `9-duplicate_last_line`
 > The script duplicates the last line of the file `iacta`.
 ---
-`10-mirror_permissions`
-> The script sets the mode of the file hello the same as olleh’s mode.
+`10-no_more_js`
+> The script deletes all the regular files (not the directories) with a `.js` extension that are present in the current directory and all its subfolders.
 ---
 `11-directories_permissions`
 > The script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
