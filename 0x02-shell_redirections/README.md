@@ -64,4 +64,7 @@
 `20-hiago`
 > The script removes all letters `c` and `C` from input.
 ---
+`21-reverse`
+> The script reverse its input.
+---
 
