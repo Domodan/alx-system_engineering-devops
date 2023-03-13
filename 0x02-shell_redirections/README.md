@@ -28,8 +28,8 @@
 `8-cwd_state`
 > The script writes into the file `ls_cwd_content` the result of the command `ls -la`. If the file `ls_cwd_conten`t already exists, it should be overwritten. If the file `ls_cwd_content` does not exist, create it.
 ---
-`9-John_Doe`
-> The script sets the mode of the file hello to 753
+`9-duplicate_last_line`
+> The script duplicates the last line of the file `iacta`.
 ---
 `10-mirror_permissions`
 > The script sets the mode of the file hello the same as olleh’s mode.
