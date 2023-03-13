@@ -34,8 +34,8 @@
 `10-no_more_js`
 > The script deletes all the regular files (not the directories) with a `.js` extension that are present in the current directory and all its subfolders.
 ---
-`11-directories_permissions`
-> The script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+`11-directories`
+> The script counts the number of directories and sub-directories in the current directory.
 ---
 `12-directory_permissions`
 > The script creates a directory called my_dir with permissions 751 in the working directory.
