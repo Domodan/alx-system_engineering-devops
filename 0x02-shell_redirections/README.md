@@ -52,6 +52,6 @@
 `16-whatsnext`
 > The script display lines containing the pattern “root” and 3 lines after them in the file `/etc/passwd`.
 ---
-`103-Star_Wars`
-> The script will play the StarWars IV episode in the terminal.
+`17-hidethisword`
+> The script display all the lines in the file `/etc/passwd` that do not contain the pattern “bin”.
 ---
