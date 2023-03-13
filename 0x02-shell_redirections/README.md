@@ -13,8 +13,8 @@
 `3-twofiles`
 > The script display the content of /etc/passwd and /etc/hosts.
 ---
-`4-empty`
-> The script creates an empty file called hello.
+`4-lastlines`
+> The script display the last 10 lines of /etc/passwd.
 ---
 `5-execute`
 > The script adds execute permission to the owner of the file hello.
