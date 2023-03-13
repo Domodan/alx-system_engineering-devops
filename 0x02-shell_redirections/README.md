@@ -4,8 +4,8 @@
 `0-hello_world`
 > The script prints “Hello, World”, followed by a new line to the standard output.
 ---
-`1-who_am_i`
-> The script prints the effective username of the current user.
+`1-confused_smileyi`
+> The script displays a confused smiley "(Ôo)'.
 ---
 `2-groups`
 > The script prints all the groups the current user is part of.
