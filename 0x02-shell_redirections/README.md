@@ -5,25 +5,25 @@
 > The script prints “Hello, World”, followed by a new line to the standard output.
 ---
 `1-confused_smileyi`
-> The script displays a confused smiley "(Ôo)'.
+> The script displays a confused smiley `"(Ôo)'`.
 ---
 `2-hellofile`
-> The script display the content of the /etc/passwd file.
+> The script display the content of the `/etc/passwd` file.
 ---
 `3-twofiles`
-> The script display the content of /etc/passwd and /etc/hosts.
+> The script display the content of `/etc/passwd` and `/etc/hosts`.
 ---
 `4-lastlines`
-> The script display the last 10 lines of /etc/passwd.
+> The script display the last 10 lines of `/etc/passwd`.
 ---
 `5-firstlines`
-> The script display the first 10 lines of /etc/passwd.
+> The script display the first 10 lines of `/etc/passwd`.
 ---
 `6-third_line`
-> The script displays the third line of the file iacta.
+> The script displays the third line of the file `iacta`.
 ---
-`7-everybody`
-> The script adds execution permission to the owner, the group owner and the other users, to the file hello.
+`7-file`
+> The script creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text Best School ending by a new line.
 ---
 `8-James_Bond`
 > The script sets no permission to user and group, and grant all permissions to everybody, to the file hello.
