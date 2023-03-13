@@ -61,4 +61,7 @@
 `19-AZ`
 > The script replace all characters `A` and `c` from input to `Z` and `e` respectively.
 ---
+`20-hiago`
+> The script removes all letters `c` and `C` from input.
+---
 
