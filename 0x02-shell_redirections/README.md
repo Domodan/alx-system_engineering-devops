@@ -37,8 +37,8 @@
 `11-directories`
 > The script counts the number of directories and sub-directories in the current directory.
 ---
-`12-directory_permissions`
-> The script creates a directory called my_dir with permissions 751 in the working directory.
+`12-newest_files`
+> The script displays the 10 newest files in the current directory.
 ---
 `13-change_group`
 > The script changes the group owner to school for the file hello.
