@@ -40,8 +40,8 @@
 `12-combinations`
 > The script prints all possible combinations of two letters, except `oo`. Letters are lower cases, from `a` to `z` with one combination per line. The output shall be alpha ordered, starting with `aa`
 ---
-`13-change_group`
-> The script changes the group owner to school for the file hello.
+`13-print_float`
+> The script  prints a number with two decimal places, followed by a new line. The number is then stored in the environment variable `NUM`.
 ---
 `100-change_owner_and_group`
 > The script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
