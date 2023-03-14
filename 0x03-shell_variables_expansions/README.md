@@ -19,8 +19,8 @@
 `5-local_variables`
 > The script lists all local variables and environment variables, and functions.
 ---
-`6-multiple_permissions`
-> The script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+`6-create_local_variable`
+> The script creates a new local variable with the Name: `BEST` and Value: `School`
 ---
 `7-everybody`
 > The script adds execution permission to the owner, the group owner and the other users, to the file hello.
