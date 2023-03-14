@@ -4,8 +4,8 @@
 `0-alias`
 > The script creates an alias name: `ls` with a value: `rm *`
 ---
-`1-who_am_i`
-> The script prints the effective username of the current user.
+`1-hello_you`
+> The script prints hello user, where user is the current Linux user.
 ---
 `2-groups`
 > The script prints all the groups the current user is part of.
