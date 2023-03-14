@@ -52,6 +52,6 @@
 `102-odd`
 > The script prints every other line from the input, starting with the first line.
 ---
-`103-Star_Wars`
-> The script will play the StarWars IV episode in the terminal.
+`103-water_and_stir`
+> The script adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result. `WATER` is in base `water` and `STIR` is in base `stir`. The result shall be in base `bestchol`.
 ---
