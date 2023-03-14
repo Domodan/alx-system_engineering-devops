@@ -7,8 +7,8 @@
 `1-hello_you`
 > The script prints hello user, where user is the current Linux user.
 ---
-`2-groups`
-> The script prints all the groups the current user is part of.
+`2-path`
+> The script Add `/action` to the `PATH`. `/action` shall be the last directory the shell looks into when looking for a program.
 ---
 `3-new_owner`
 > The script changes the owner of the file hello to the user betty.
