@@ -25,8 +25,8 @@
 `7-create_global_variable`
 > The script creates a new global variable with the Name: `BEST` and Value: `School`.
 ---
-`8-James_Bond`
-> The script sets no permission to user and group, and grant all permissions to everybody, to the file hello.
+`8-true_knowledge`
+> The script prints the result of the addition of 128 with the value stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line.
 ---
 `9-John_Doe`
 > The script sets the mode of the file hello to 753
