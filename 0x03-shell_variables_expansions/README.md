@@ -31,8 +31,8 @@
 `9-divide_and_rule`
 > The script prints the result of `POWER` divided by `DIVIDE`, followed by a new line.
 ---
-`10-mirror_permissions`
-> The script sets the mode of the file hello the same as olleh’s mode.
+`10-love_exponent_breath`
+> The script displays the result of `BREATH` to the power `LOVE`
 ---
 `11-directories_permissions`
 > The script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
