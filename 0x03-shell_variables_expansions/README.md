@@ -20,10 +20,10 @@
 > The script lists all local variables and environment variables, and functions.
 ---
 `6-create_local_variable`
-> The script creates a new local variable with the Name: `BEST` and Value: `School`
+> The script creates a new local variable with the Name: `BEST` and Value: `School`.
 ---
-`7-everybody`
-> The script adds execution permission to the owner, the group owner and the other users, to the file hello.
+`7-create_global_variable`
+> The script creates a new global variable with the Name: `BEST` and Value: `School`.
 ---
 `8-James_Bond`
 > The script sets no permission to user and group, and grant all permissions to everybody, to the file hello.
