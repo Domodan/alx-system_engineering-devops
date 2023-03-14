@@ -46,8 +46,8 @@
 `100-decimal_to_hexadecimal`
 > The script converts a number from base 10 to base 16. The number in base 10 is stored in the environment variable `DECIMAL`. The script will then  display the number in base 16, followed by a new line.
 ---
-`101-symbolic_link_permissions`
-> The script changes the owner and the group owner of _hello to vincent and staff respectively.
+`101-rot13`
+> The script  encodes and decodes text using the rot13 encryption. Assume ASCII.
 ---
 `102-if_only`
 > The script changes the owner of the file hello to betty only if it is owned by the user guillaume.
