@@ -16,8 +16,8 @@
 `4-global_variables`
 > The script lists environment variables.
 ---
-`5-execute`
-> The script adds execute permission to the owner of the file hello.
+`5-local_variables`
+> The script lists all local variables and environment variables, and functions.
 ---
 `6-multiple_permissions`
 > The script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
