@@ -10,8 +10,8 @@
 `2-path`
 > The script Add `/action` to the `PATH`. `/action` shall be the last directory the shell looks into when looking for a program.
 ---
-`3-new_owner`
-> The script changes the owner of the file hello to the user betty.
+`3-paths`
+> The script counts the number of directories in the `PATH`.
 ---
 `4-empty`
 > The script creates an empty file called hello.
