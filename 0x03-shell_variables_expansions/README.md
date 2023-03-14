@@ -13,8 +13,8 @@
 `3-paths`
 > The script counts the number of directories in the `PATH`.
 ---
-`4-empty`
-> The script creates an empty file called hello.
+`4-global_variables`
+> The script lists environment variables.
 ---
 `5-execute`
 > The script adds execute permission to the owner of the file hello.
