@@ -37,8 +37,8 @@
 `11-binary_to_decimal`
 > The script converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable `BINARY`. The script shall  display the number in base 10, followed by a new line
 ---
-`12-directory_permissions`
-> The script creates a directory called my_dir with permissions 751 in the working directory.
+`12-combinations`
+> The script prints all possible combinations of two letters, except `oo`. Letters are lower cases, from `a` to `z` with one combination per line. The output shall be alpha ordered, starting with `aa`
 ---
 `13-change_group`
 > The script changes the group owner to school for the file hello.
