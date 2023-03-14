@@ -43,8 +43,8 @@
 `13-print_float`
 > The script  prints a number with two decimal places, followed by a new line. The number is then stored in the environment variable `NUM`.
 ---
-`100-change_owner_and_group`
-> The script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+`100-decimal_to_hexadecimal`
+> The script converts a number from base 10 to base 16. The number in base 10 is stored in the environment variable `DECIMAL`. The script will then  display the number in base 16, followed by a new line.
 ---
 `101-symbolic_link_permissions`
 > The script changes the owner and the group owner of _hello to vincent and staff respectively.
