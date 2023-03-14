@@ -49,8 +49,8 @@
 `101-rot13`
 > The script  encodes and decodes text using the rot13 encryption. Assume ASCII.
 ---
-`102-if_only`
-> The script changes the owner of the file hello to betty only if it is owned by the user guillaume.
+`102-odd`
+> The script prints every other line from the input, starting with the first line.
 ---
 `103-Star_Wars`
 > The script will play the StarWars IV episode in the terminal.
