@@ -34,8 +34,8 @@
 `10-love_exponent_breath`
 > The script displays the result of `BREATH` to the power `LOVE`
 ---
-`11-directories_permissions`
-> The script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+`11-binary_to_decimal`
+> The script converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable `BINARY`. The script shall  display the number in base 10, followed by a new line
 ---
 `12-directory_permissions`
 > The script creates a directory called my_dir with permissions 751 in the working directory.
