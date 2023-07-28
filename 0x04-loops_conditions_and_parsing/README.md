@@ -47,15 +47,15 @@
 `10-fizzbuzz`
 > 10. FizzBuzz - a Bash script that displays numbers from 1 to 100
 ---
-`100-decimal_to_hexadecimal`
-> The script converts a number from base 10 to base 16. The number in base 10 is stored in the environment variable `DECIMAL`. The script will then  display the number in base 16, followed by a new line.
+`100-read_and_cut`
+> 11. Read and cut - a Bash script that displays the content of the file `/etc/passwd`
 ---
-`101-rot13`
-> The script  encodes and decodes text using the rot13 encryption. Assume ASCII.
+`101-tell_the_story_of_passwd`
+> 12. Tell the story of passwd - a Bash script that displays the content of the file /etc/passwd, using the while loop + IFS
 ---
-`102-odd`
-> The script prints every other line from the input, starting with the first line.
+`102-lets_parse_apache_logs`
+> 13. Let's parse Apache logs -  a Bash script that displays the visitor IP along with the HTTP status code from the Apache log file
 ---
-`103-water_and_stir`
-> The script adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result. `WATER` is in base `water` and `STIR` is in base `stir`. The result shall be in base `bestchol`.
+`103-dig_the-data`
+> 14. Dig the data - a Bash script that groups visitors by IP and HTTP status code, and displays this data
 ---
