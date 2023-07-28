@@ -33,12 +33,17 @@
 `8-beheaded_process`
 > 8. Beheaded process - a Bash script that kills the process `7-highlander`
 ---
-`101-tell_the_story_of_passwd`
-> 12. Tell the story of passwd - a Bash script that displays the content of the file /etc/passwd, using the while loop + IFS
+`100-process_and_pid_file`
+> 9. Process and PID file - a Bash script that:
+> Creates the file `/var/run/myscript.pid` containing its PID
+> Displays `To infinity and beyond` indefinitely
+> Displays `I hate the kill command` when receiving a `SIGTERM` signal
+> Displays `Y U no love me?!` when receiving a `SIGINT` signal
+> Deletes the file `/var/run/myscript.pid` and terminates itself when receiving a `SIGQUIT` or `SIGTERM` signal
 ---
-`102-lets_parse_apache_logs`
-> 13. Let's parse Apache logs -  a Bash script that displays the visitor IP along with the HTTP status code from the Apache log file
+`101-manage_my_process`
+> 10. Manage my process
 ---
-`103-dig_the-data`
-> 14. Dig the data - a Bash script that groups visitors by IP and HTTP status code, and displays this data
+`102-zombie.c`
+> 11. Zombie -  a C program that creates 5 zombie processes
 ---
