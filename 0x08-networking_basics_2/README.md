@@ -9,6 +9,6 @@
 `1-show_attached_IPs`
 > 1. Show attached IPs
 ---
-``
-> 2. MAC and IP address
+`100-port_listening_on_localhost`
+> 2. Port listening on localhost
 ---
