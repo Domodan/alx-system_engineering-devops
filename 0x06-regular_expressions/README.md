@@ -26,6 +26,5 @@
 `7-OMG_WHY_ARE_YOU_SHOUTING.rb`
 > 7. OMG WHY ARE YOU SHOUTING?
 ---
-``
-> 11. Zombie -  a C program that creates 5 zombie processes
----
+`100-textme.rb`
+> 11. Text me
