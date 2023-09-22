@@ -13,5 +13,8 @@
 > 2. Client configuration file
 ---
 `0x0B-ssh`
-> Let me in!
+> 3. Let me in!
+---
+`100-puppet_ssh_config.pp`
+> 4. Client configuration file `(w/ Puppet)`
 ---
