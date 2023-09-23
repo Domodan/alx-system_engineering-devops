@@ -3,7 +3,7 @@
 # Password based Authentication is disabled 
 
 Host *
-    HostName 100.26.227.174
+    HostName 54.236.46.70
     SeverAliveInterval 120
     SendEnv LANG LC_*
     HashKnownHosts yes
