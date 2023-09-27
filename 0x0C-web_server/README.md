@@ -18,3 +18,6 @@
 `4-not_found_page_404`
 > 4. Not found page 404
 ---
+`7-puppet_install_nginx_web_server.pp`
+> 5. Install Nginx web server `(w/ Puppet)`
+---
