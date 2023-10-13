@@ -17,14 +17,14 @@ loadbl_config=\
     timeout server 15s
     timeout http-request 10s
 
-frontend iamitsfoss-frontend
+frontend http
     bind *:80
-    default_backend iamitsfoss-backend
+    default_backend web
 
-backend iamitsfoss-backend
+backend web
     balance roundrobin
-    server 393973-web-01 100.26.210.183:80 check
-    server 393973-web-02 34.203.75.224:80 check
+    server 393973-web-01 100.25.201.83:80 check
+    server 393973-web-02 52.3.249.62:80 check
 "
 sudo echo -e "$loadbl_config" > /etc/haproxy/haproxy.cfg
 
