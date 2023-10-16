@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Fixes container same as task 1 with <= 7 lines of code
+pkill -f apache2
+chmod 777 /etc/nginx/nginx.conf
+sed -i 's/80/8080/g' /etc/nginx/sites-available/default
+sudo -u nginx service nginx start
