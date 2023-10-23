@@ -12,8 +12,7 @@ import csv
 if __name__ == "__main__":
 
     userId = argv[1]
-    user = get("https://jsonplaceholder.typicode.com/users/{}"
-                        .format(userId))
+    user = get("https://jsonplaceholder.typicode.com/users/{}".format(userId))
 
     name = user.json().get('username')
 

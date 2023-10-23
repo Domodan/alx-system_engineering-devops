@@ -12,8 +12,7 @@ from json import dump
 if __name__ == "__main__":
 
     userId = argv[1]
-    user = get("https://jsonplaceholder.typicode.com/users/{}"
-                        .format(userId))
+    user = get("https://jsonplaceholder.typicode.com/users/{}".format(userId))
 
     todos = get('https://jsonplaceholder.typicode.com/todos')
     todos = todos.json()
