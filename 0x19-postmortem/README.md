@@ -6,9 +6,14 @@
 `Postmortem`
 > 0. My first Postmortem
 ---
-`Monitor`
-> 1. Monitor some metrics
+`Catchy Postmortem`
+> 1. Make people want to read your postmortem
 ---
-`2-setup_datadog`
-> 2. Create a dashboard
+---
+---
+`Article on Medium`
+> [Medium](https://medium.com/@ongomdaniel9/postmortem-ultimate-guide-to-writing-a-good-incident-report-or-postmortem-126cb92fe566)
+---
+`Article on LinkedIn`
+> [LinkedIn](https://www.linkedin.com/pulse/postmortem-ultimate-guide-writing-good-incident-report-ongom-daniel-m6llf/)
 ---
