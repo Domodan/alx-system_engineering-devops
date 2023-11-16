@@ -15,3 +15,9 @@
 `5-app_server-nginx_config`
 > 5. Serve your AirBnB clone
 ---
+`gunicorn.service`
+> 6. How about we Deploy it!
+---
+`4-reload_gunicorn_no_downtime`
+> 7. No service interruption
+---
